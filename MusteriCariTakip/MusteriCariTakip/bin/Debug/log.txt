@@ -1,0 +1,52 @@
+
+@
+mertv
+@
+   konum: MusteriCariTakipOdev.Form1.button1_Click(Object sender, EventArgs e) C:\Users\mertv\source\repos\MusteriCariTakipOdev\MusteriCariTakipOdev\Form1.cs içinde: satır 61
+@
+03.01.2024 11:46
+@
+Özel Mesaj: Kullanıcı girişi sırasında hata oluştu.
+Hata Mesajı: Kullanıcı adı ve şifreyi kontrol edin.
+Hata Stack Trace:    konum: MusteriCariTakipOdev.Form1.button1_Click(Object sender, EventArgs e) C:\Users\mertv\source\repos\MusteriCariTakipOdev\MusteriCariTakipOdev\Form1.cs içinde: satır 61
+
+
+
+@
+mertv
+@
+   konum: MusteriCariTakipOdev.Form1.button1_Click(Object sender, EventArgs e) C:\Users\mertv\source\repos\MusteriCariTakipOdev\MusteriCariTakipOdev\Form1.cs içinde: satır 61
+@
+03.01.2024 17:26
+@
+Özel Mesaj: Kullanıcı girişi sırasında hata oluştu.
+Hata Mesajı: Kullanıcı adı ve şifreyi kontrol edin.
+Hata Stack Trace:    konum: MusteriCariTakipOdev.Form1.button1_Click(Object sender, EventArgs e) C:\Users\mertv\source\repos\MusteriCariTakipOdev\MusteriCariTakipOdev\Form1.cs içinde: satır 61
+
+
+
+@
+mertv
+@
+   konum: MusteriCariTakipOdev.MusteriEkle.button1_Click(Object sender, EventArgs e) C:\Users\mertv\source\repos\MusteriCariTakipOdev\MusteriCariTakipOdev\MusteriEkle.cs içinde: satır 44
+@
+03.01.2024 17:27
+@
+Özel Mesaj: Müşteri Ekleme Sırasında Bir Hata oluştu.
+Hata Mesajı: Lütfen Zorunlu alanları doldurunuz.
+Hata Stack Trace:    konum: MusteriCariTakipOdev.MusteriEkle.button1_Click(Object sender, EventArgs e) C:\Users\mertv\source\repos\MusteriCariTakipOdev\MusteriCariTakipOdev\MusteriEkle.cs içinde: satır 44
+
+
+
+@
+mertv
+@
+   konum: MusteriCariTakipOdev.Form1.button1_Click(Object sender, EventArgs e) C:\Users\mertv\source\repos\MusteriCariTakipOdev\MusteriCariTakipOdev\Form1.cs içinde: satır 61
+@
+14.02.2024 17:23
+@
+Özel Mesaj: Kullanıcı girişi sırasında hata oluştu.
+Hata Mesajı: Kullanıcı adı ve şifreyi kontrol edin.
+Hata Stack Trace:    konum: MusteriCariTakipOdev.Form1.button1_Click(Object sender, EventArgs e) C:\Users\mertv\source\repos\MusteriCariTakipOdev\MusteriCariTakipOdev\Form1.cs içinde: satır 61
+
+
